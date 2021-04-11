@@ -1,4 +1,4 @@
-### Hey, I'm Esat, AKA the Knight of Mind 👋
+### Hey, I'm Esat 👋
 
 <!--
 **mertesat/mertesat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
